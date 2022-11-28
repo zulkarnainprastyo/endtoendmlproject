@@ -15,8 +15,8 @@
 
 1. [GithubAccount](https://github.com)
 2. [VSCodeIDE](https://code.visualstudio.com/)
-3. [HerokuAccount](hhtps://heroku.com)
-4. [GitCLI](htpps://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+3. [Heroku Account](hhtps://heroku.com)
+4. [Git CLI](htpps://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 Create a new environment
 
