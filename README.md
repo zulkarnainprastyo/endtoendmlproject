@@ -1,4 +1,4 @@
-# End to End ML Project
+### endtoendmlproject
 
 ### Outcome Project
 * Blok diagram persiapan data
@@ -13,14 +13,13 @@
 
 ### Software and Tools Requirements
 
-1. [Github Account] (https://github.com)
-2. [VS Code IDE] (https://code.visualstudio.com/)
-3. [HerokuAccount] (hhtps://heroku.com)
-4. [Git CLI] (htpps://git-scm.com/book/en/v2/
-Getting-Started-The-Command-Line)
+1. [GithubAccount](https://github.com)
+2. [VSCodeIDE](https://code.visualstudio.com/)
+3. [HerokuAccount](hhtps://heroku.com)
+4. [GitCLI](htpps://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 Create a new environment
 
-'''
-conda create -p venv python==3.8 -y
-'''
+```
+conda create -p venv python==3.7 -y
+```
